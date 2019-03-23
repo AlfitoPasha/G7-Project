@@ -47,13 +47,13 @@ echo $cyan"[+]===================================================[+]"|lolcat
 echo  "________________________________________________________" | lolcat
 echo
 						
-echo $green"1) Toools tuan badutv1"	
+echo $green"1) Toools TUANBADUTv1"	
 echo
-echo $cyan"2) Tools tuan badutv4"	
+echo $cyan"2) Tools TUANBADUTv4"	
 echo
-echo $white"3) Tools B4j1n64nv5"	
+echo $white"3) Tools BAJINGANv5"	
 echo
-echo $blue"4) Tools B4j1n64nv6"
+echo $blue"4) Tools BAJINGANv6"
 echo
 echo $purple"5) Hammer buat ddos"	 
 echo
