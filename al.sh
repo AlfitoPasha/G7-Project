@@ -33,7 +33,7 @@ sh al.sh
 fi
 
 cd $HOME
-cd project
+cd G7-Project
 cd module
 sh load.sh
 echo -n $cyan"Anda memakai tools ini pada tanggal "; date +"%d %B %Y"|lolcat
@@ -706,7 +706,7 @@ clear
 figlet -f slant "Loading.."|lolcat
 pkg update && pkg upgrade
 cd $HOME
-cd project
+cd G7-Project
 cd module
 sh l.sh
 fi
