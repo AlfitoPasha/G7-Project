@@ -8,8 +8,8 @@ yellow='\033[33;1m'
 
 clear
 echo
-echo $cyan"Kalo nggak tau user sama pw"
-echo $purple"Hubungi +1 (315) 502-6913"
+echo $cyan"[+]Kalo nggak tau user sama pw"
+echo $purple"[+]Hubungi :"$yellow"+1 (315) 502-6913"
 echo "\033[33;1m"
 read -p "[•]---[ Username ]--[ : " user
 if [ $user = "Alfito" ]
