@@ -1,5 +1,6 @@
-#Jangan Recode Djancoeg 
-#AwasAjaLo
+#Jangan Recode
+#Pahami
+#Pelajari
 
 blue='\033[34;1m'
 green='\033[32;1m'
@@ -15,7 +16,7 @@ echo $cyan"[+]Kalo nggak tau user sama pw"
 echo $purple"[+]Hubungi :"$yellow"0895 3776 10005"
 echo "\033[33;1m"
 read -p "[•]---[ Username ]--[ : " user
-if [ $user = "Alfito" ]
+if [ $user = "G7HCKR" ]
 then
 sleep 1
 else
@@ -26,7 +27,7 @@ sh al.sh
 fi
 echo "\033[33;1m"
 read -p "[•]---[ Password [--[ : " pass
-if [ $pass = "Gans" ]
+if [ $pass = "GANS" ]
 then
 sleep 1
 clear
