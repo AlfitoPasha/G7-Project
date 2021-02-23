@@ -12,8 +12,7 @@ yellow='\033[33;1m'
 
 clear
 echo
-echo $cyan"[+]Kalo Nggak Tau PIN"
-echo $purple"[+]Hubungi :"$yellow"0895 3776 10005"
+echo $purple"[+]PIN :"$yellow"2486"
 echo "\033[33;1m"
 echo "╔═╗  ╔═╗  ╔═╗" 
 echo "|1|  |2|  |3|"
@@ -24,7 +23,7 @@ echo "╚═╝  ╚═╝  ╚═╝"
 echo "╔═╗  ╔═╗  ╔═╗"
 echo "|7|  |8|  |9|"
 echo "╚═╝  ╚═╝  ╚═╝"
-read -p "Masukin PIN Project :" pin
+read -p "Masukan PIN Project :" pin
 if [ $pin = "2486" ]
 then
 sleep 1
